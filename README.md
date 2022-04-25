@@ -49,14 +49,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
-- [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
-- [STACKr News Weekly: Inspiring Dev Stories 🚀, Create 10k NFT Collection without Web3 Knowledge! 🤯](https://www.youtube.com/watch?v=z2vpcQjpqno)
-- [Top VS Code Updates | v1.63 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=q4F9OSon2n0)
-- [ZERO Gas Purchases on OpenSea!! How to buy NFTs on Polygon](https://www.youtube.com/watch?v=peJ9zgNhyh0)
+- [Data Wrangling (Manipulation) 🐱‍👤 Data Pandemonium 🏖](https://youtu.be/CyOYgpI5WgM)
+- [Forms - Invoices - Reports | Data Pandemonium](https://https://youtu.be/gogL6L5F-Zg)
+- [Database Development 🚀 Data Pandemonium 🤯](https://youtu.be/tqrFzqEp3eI)
+- [Data Wrangling | Data Pandemonium](https://youtu.be/w7NxwAnU6DE)
+- [5 Mistakes to Avoid on the AP Computer Science A Exam | Data Pandemonium](https://youtu.be/RwV6j5g9QOQ)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UC0gojb1AJNR6J17K_G29PCg)
+➡️ [more videos...](https://youtu.be/vB8-9956xJo)
 
 ---
 
